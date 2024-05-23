@@ -1,3 +1,3 @@
 # laravel-demo
 laravel demo project <br>
-author - neha bargale
+author - neha vaibhav bargale
